@@ -1,0 +1,10 @@
+# Java Notes
+- Java is an Object-Oriented Programming language.
+- Platform independent (because of JVM).
+- Example:
+  ```java
+  class Hello {
+    public static void main(String[] args) {
+      System.out.println("Hello Java");
+    }
+  }
